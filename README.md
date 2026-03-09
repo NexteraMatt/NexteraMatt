@@ -1,4 +1,4 @@
-# Hi, I'm Matt 👋
+# Hi, I'm Matt
 
 Cloud & Infrastructure Engineer focused on automation, monitoring, and reliability.
 
